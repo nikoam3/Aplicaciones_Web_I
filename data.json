@@ -1,0 +1,122 @@
+[
+    {
+        "titulo": "Guitarra Eléctrica Fender Stratocaster",
+        "descripcion": "Una de las guitarras eléctricas más icónicas y populares, conocida por su versatilidad y tono brillante.",
+        "precio": 1200,
+        "categoria": "Cuerdas"
+    },
+    {
+        "titulo": "Piano Yamaha U1",
+        "descripcion": "Un piano acústico vertical de alta calidad, ideal para estudiantes y pianistas avanzados.",
+        "precio": 8000,
+        "categoria": "Teclados"
+    },
+    {
+        "titulo": "Batería Pearl Export",
+        "descripcion": "Un set de batería completo, perfecto para principiantes y músicos intermedios.",
+        "precio": 700,
+        "categoria": "Percusión"
+    },
+    {
+        "titulo": "Saxofón Alto Yamaha YAS-280",
+        "descripcion": "Un saxofón alto de calidad, diseñado para ofrecer un excelente sonido y facilidad de uso.",
+        "precio": 900,
+        "categoria": "Viento"
+    },
+    {
+        "titulo": "Violín Stradivarius Replica",
+        "descripcion": "Una réplica de alta calidad de los famosos violines Stradivarius, conocido por su sonido rico y cálido.",
+        "precio": 1500,
+        "categoria": "Cuerdas"
+    },
+    {
+        "titulo": "Flauta Traversa Gemeinhardt 3B",
+        "descripcion": "Una flauta traversa profesional, ideal para músicos avanzados.",
+        "precio": 1200,
+        "categoria": "Vientos"
+    },
+    {
+        "titulo": "Clarinete Buffet Crampon E11",
+        "descripcion": "Un clarinete de estudio, perfecto para estudiantes y músicos intermedios.",
+        "precio": 800,
+        "categoria": "Vientos"
+    },
+    {
+        "titulo": "Trompeta Bach Stradivarius 180S37",
+        "descripcion": "Una trompeta profesional conocida por su excelente calidad de construcción y sonido.",
+        "precio": 2500,
+        "categoria": "Vientos"
+    },
+    {
+        "titulo": "Guitarra Acústica Taylor 214ce",
+        "descripcion": "Una guitarra acústica de gama media, con un sonido cálido y resonante.",
+        "precio": 1000,
+        "categoria": "Cuerdas"
+    },
+    {
+        "titulo": "Bajo Eléctrico Fender Jazz Bass",
+        "descripcion": "Un bajo eléctrico versátil, utilizado en una amplia variedad de géneros musicales.",
+        "precio": 1200,
+        "categoria": "Cuerdas"
+    },
+    {
+        "titulo": "Teclado MIDI Akai MPK Mini",
+        "descripcion": "Un teclado MIDI compacto y portátil, ideal para productores musicales.",
+        "precio": 100,
+        "categoria": "Teclados"
+    },
+    {
+        "titulo": "Ukelele Kala KA-15S",
+        "descripcion": "Un ukelele soprano asequible, perfecto para principiantes.",
+        "precio": 50,
+        "categoria": "Cuerdas"
+    },
+    {
+        "titulo": "Oboe Yamaha YOB-241",
+        "descripcion": "Un oboe de estudio, ideal para estudiantes y músicos intermedios.",
+        "precio": 2000,
+        "categoria": "Vientos"
+    },
+    {
+        "titulo": "Cello Stentor Student II",
+        "descripcion": "Un cello de estudio, perfecto para estudiantes principiantes.",
+        "precio": 1500,
+        "categoria": "Cuerdas"
+    },
+    {
+        "titulo": "Guitarra Clásica Córdoba C5",
+        "descripcion": "Una guitarra clásica de calidad, ideal para principiantes y músicos intermedios.",
+        "precio": 300,
+        "categoria": "Cuerdas"
+    },
+    {
+        "titulo": "Timbales Latin Percussion LP Matador",
+        "descripcion": "Un set de timbales de calidad profesional, conocido por su excelente sonido y durabilidad.",
+        "precio": 600,
+        "categoria": "Percusión"
+    },
+    {
+        "titulo": "Armónica Hohner Marine Band",
+        "descripcion": "Una de las armónicas más populares, conocida por su tono rico y distintivo.",
+        "precio": 50,
+        "categoria": "Vientos"
+    },
+    {
+        "titulo": "Marimba Adams Soloist",
+        "descripcion": "Una marimba de alta calidad, utilizada en conciertos y estudios.",
+        "precio": 5000,
+        "categoria": "Percusión"
+    },
+    {
+        "titulo": "Trombón Yamaha YSL-354",
+        "descripcion": "Un trombón de estudio, ideal para estudiantes y músicos intermedios.",
+        "precio": 1000,
+        "categoria": "Vientos"
+    },
+    {
+        "titulo": "Gaita McCallum Bagpipes",
+        "descripcion": "Una gaita escocesa de calidad, utilizada en ceremonias y eventos tradicionales.",
+        "precio": 1200,
+        "categoria": "Vientos"
+    }
+]

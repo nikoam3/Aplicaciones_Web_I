@@ -4,7 +4,7 @@ const navElements = [
 ]
 
 const categorias = [
-    { title: 'Amplificadores', link: '../pages/amplificadores.html' },
+    { title: 'Vientos', link: '../pages/vientos.html' },
     { title: 'Cuerdas', link: '../pages/cuerdas.html' },
     { title: 'Teclados', link: '../pages/teclados.html' }
 ]
