@@ -6,9 +6,9 @@ export function renderCarousel(render) {
         .then((data) => {
 
             cargoElementos(data);
-            console.log(elementos)
+
             render.innerHTML += `
-                <div id="carouselExampleInterval" class="carousel slide carousel-fade m-5" data-bs-ride="carousel">
+                <div id="carouselExampleInterval" class="carousel slide carousel-fade m-10" data-bs-ride="carousel">
                     <div class="carousel-indicators">
                         <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
                         <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
@@ -18,7 +18,7 @@ export function renderCarousel(render) {
                         
                             <div class="carousel-item active" data-bs-interval="2000" >
                                 <a href="../pages/${elementos[0].categoria}.html">        
-                                    <img src="../img/${elementos[0].categoria}/${elementos[0].titulo}.png" class="d-block w-75" alt="${elementos[0].categoria}">
+                                    <img src="../img/${elementos[0].categoria}/${elementos[0].titulo}.png" class="d-block w-100" alt="${elementos[0].categoria}">
                                     <div class="carousel-caption d-none d-md-block">
                                         <h4>${elementos[0].categoria}</h4>
                                     </div>
@@ -26,7 +26,7 @@ export function renderCarousel(render) {
                             </div>    
                             <div class="carousel-item" data-bs-interval="2000" >
                                 <a href="../pages/${elementos[1].categoria}.html">
-                                    <img src="../img/${elementos[1].categoria}/${elementos[1].titulo}.png" class="d-block w-75" alt="${elementos[1].categoria}">
+                                    <img src="../img/${elementos[1].categoria}/${elementos[1].titulo}.png" class="d-block w-100" alt="${elementos[1].categoria}">
                                     <div class="carousel-caption d-none d-md-block">
                                         <h4>${elementos[1].categoria}</h4>
                                     </div>
@@ -34,7 +34,7 @@ export function renderCarousel(render) {
                             </div>   
                             <div class="carousel-item" data-bs-interval="2000" >
                                 <a href="../pages/${elementos[2].categoria}.html">
-                                    <img src="../img/${elementos[2].categoria}/${elementos[2].titulo}.png" class="d-block w-75" alt="${elementos[2].categoria}">
+                                    <img src="../img/${elementos[2].categoria}/${elementos[2].titulo}.png" class="d-block w-100" alt="${elementos[2].categoria}">
                                     <div class="carousel-caption d-none d-md-block">
                                         <h4>${elementos[2].categoria}</h4>
                                     </div>

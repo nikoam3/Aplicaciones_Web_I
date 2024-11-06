@@ -22,19 +22,47 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
+                <div id="navBar">
+
+                </div>
+
+                <button type="button" class="btn btn-outline-primary me-3 ms-auto" data-bs-toggle="modal"
+                    data-bs-target="#staticBackdrop" id="botonCarro">
+                    <i class="bi bi-cart"></i></button>
+                <button id="logout1" type="button" class="btn btn-outline-danger me-3">
+                    <i class="bi bi-box-arrow-right"></i></button>
             </div>
         </div>
     </nav>
 
     <h1 class="text-center">MR. Instrumenst</h1>
-    
+
     <div id="carousel">
 
     </div>
 
+    <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
+        aria-labelledby="staticBackdropLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="staticBackdropLabel">Carrito de compras</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body" id="carro">
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                    <button type="button" class="btn btn-success">Finalizar compra</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
 
     <script type="module" src="./scripts/index.js"></script>
-    <script type="module" src="../scripts/utils.js"></script>
+    <script type="module" src="./scripts/utils.js"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
         integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"

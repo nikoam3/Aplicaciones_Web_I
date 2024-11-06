@@ -1,0 +1,38 @@
+[
+    {
+      "nombre": "Carlos",
+      "apellido": "Gómez",
+      "email": "carlos.gomez@example.com",
+      "contraseña": "ContraseñaSegura1",
+      "fecha_de_nacimiento": "1990-01-15"
+    },
+    {
+      "nombre": "María",
+      "apellido": "Rodríguez",
+      "email": "maria.rodriguez@example.com",
+      "contraseña": "ContraseñaSegura2",
+      "fecha_de_nacimiento": "1985-03-22"
+    },
+    {
+      "nombre": "Lucía",
+      "apellido": "Fernández",
+      "email": "lucia.fernandez@example.com",
+      "contraseña": "ContraseñaSegura3",
+      "fecha_de_nacimiento": "1992-07-09"
+    },
+    {
+      "nombre": "Javier",
+      "apellido": "López",
+      "email": "javier.lopez@example.com",
+      "contraseña": "ContraseñaSegura4",
+      "fecha_de_nacimiento": "1988-11-30"
+    },
+    {
+      "nombre": "Sofía",
+      "apellido": "Martínez",
+      "email": "sofia.martinez@example.com",
+      "contraseña": "ContraseñaSegura5",
+      "fecha_de_nacimiento": "1995-05-18"
+    }
+  ]
+  
